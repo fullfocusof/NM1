@@ -1,0 +1,10 @@
+E:\Projects\NumMethods\LR1\LR1\bin\Debug\LR1.exe.config
+E:\Projects\NumMethods\LR1\LR1\bin\Debug\LR1.exe
+E:\Projects\NumMethods\LR1\LR1\bin\Debug\LR1.pdb
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.csproj.AssemblyReference.cache
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.ErrorEstimate.resources
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.Properties.Resources.resources
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.csproj.GenerateResource.cache
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.exe
+E:\Projects\NumMethods\LR1\LR1\obj\Debug\LR1.pdb
