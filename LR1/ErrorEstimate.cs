@@ -58,6 +58,15 @@ namespace LR1
                 value = float.Parse(textBoxValue.Text);
                 absError = float.Parse(textBoxAbsError.Text);
 
+                if (absError > value)
+                {
+                    labelAbsError.ForeColor = Color.Red;
+                    labelError.Text = "***Неверные данные***";
+                    labelError.Visible = true;
+
+                    return;
+                }
+
                 relatError = absError / Math.Abs(value) * 100;
 
                 textBoxRelatError.Text = relatError.ToString();
